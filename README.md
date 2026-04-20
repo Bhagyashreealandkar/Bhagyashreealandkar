@@ -1,16 +1,16 @@
-## Hi there 👋
+Welcome to my digital playground, where lines of code dance and pixels come alive!⚡️🎮✨ This repository is a glimpse into my coding journey, where I channel my passion for innovation and problem-solving into beautiful and functional creations.💻🔮
 
-<!--
-**Bhagyashreealandkar/Bhagyashreealandkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Technologies
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
+Spring Boot
+OOP
+SQL
+Spring
+Hibernate
+HTML5
+CSS3
+Data Structures
+System Design
+Git
+PostMan
